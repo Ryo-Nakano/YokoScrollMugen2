@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{591EA16A-83B1-B7B4-EE5D-043D2F639BC5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/managerscript.cs">
+    <Files>
+      <File FileName="Assets/scripts/camerascript.cs" Line="13" Column="6" />
+      <File FileName="Assets/scripts/CubeS.cs" Line="21" Column="95" />
+      <File FileName="Assets/scripts/enemyscripy.cs" Line="34" Column="6" />
+      <File FileName="Assets/scripts/managerscript.cs" Line="76" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

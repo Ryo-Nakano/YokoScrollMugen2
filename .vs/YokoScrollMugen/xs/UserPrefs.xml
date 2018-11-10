@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CE57C91A-B828-F72D-1868-5274F6D9C981}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GroundGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="42" Column="66" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="40" Column="55" />
+      <File FileName="Assets/Scripts/GroundGenerator.cs" Line="47" Column="3" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="14" Column="39" />
+      <File FileName="Assets/Scripts/InstantiateEnemy.cs" Line="11" Column="87" />
+      <File FileName="Assets/Scripts/GameOverSceneManager.cs" Line="19" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
