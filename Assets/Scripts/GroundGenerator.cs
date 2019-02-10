@@ -17,8 +17,7 @@ public class GroundGenerator : MonoBehaviour {
 	void Start () {
 		player = GameObject.Find("Player");//Hierarcyの中から名前が"Player"のものを探して来て取得→変数playerに格納
 
-		playerStartPosX = player.transform.position.x;//最初の基準値となるPlayerの
-		InstantiateEnemy();
+		playerStartPosX = player.transform.position.x;//最初の基準値となるPlayerの位置座標を変数playerStartPosXに格納
 	}
 
 	void Update () {
@@ -39,11 +38,5 @@ public class GroundGenerator : MonoBehaviour {
             border = 20;//borderの再設定
             playerStartPosX = playerNowPosX;//playerStartPosの再設定
         }
-	}
-
-    //Ground生成と同時にEnemyを生成する関数
-	void InstantiateEnemy()
-	{
-		
 	}
 }

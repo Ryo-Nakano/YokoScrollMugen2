@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0E96E522-2AAB-3E4B-F7CC-720879839C5C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GroundGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GroundGenerator.cs" Line="42" Column="3" />
+      <File FileName="Assets/Scripts/MarkScript.cs" Line="11" Column="39" />
+      <File FileName="Assets/Scripts/InstantiateEnemy.cs" Line="8" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
